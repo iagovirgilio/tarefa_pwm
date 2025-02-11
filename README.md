@@ -46,6 +46,10 @@ Este projeto demonstra o uso do módulo PWM do Raspberry Pi Pico para controlar 
 6. **Gravar no Pico**: Conecte o Raspberry Pi Pico em modo bootsel e arraste o `.uf2` para a unidade.
 7. **Teste**: Se usar um simulador (ex.: Wokwi), inclua o servo no GPIO 22 e o LED (com resistor) no GPIO 12. Em hardware real, observe o servo e o LED variando.
 
+## Demonstração no YouTube
+
+Confira a demonstração completa deste projeto no YouTube: [Demonstração do Projeto]( https://youtu.be/v3r7HxhVHQY?si=9-081kpqhTqDcLlP )
+
 ## Conexões de Hardware
 - **Servomotor**:
   - Sinal (controle) -> GPIO 22
